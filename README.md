@@ -35,7 +35,7 @@ Tornar compreensível para qualquer pessoa — mesmo sem background técnico —
 O programa roda em **modo interativo via terminal**, permitindo que o próprio usuário simule a fila de impressão:
 
 ```bash
-$ python simulador.py
+$ python3 simulador.py
 ```
 
 Durante a execução:
