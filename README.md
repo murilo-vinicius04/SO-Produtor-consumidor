@@ -2,7 +2,7 @@
 
 Este repositório contém um simulador interativo que demonstra os conceitos de **threads**, **semáforos** e **regiões críticas** por meio do clássico problema **Produtor-Consumidor**, modelado como uma fila de impressão.
 
-Desenvolvido em Python para fins didáticos na disciplina de **Sistemas Operacionais** do curso de Engenharia da USP.
+Desenvolvido em Python para fins didáticos na disciplina de **Sistemas Operacionais** do curso de Engenharia de Computação da USP.
 
 -----
 
